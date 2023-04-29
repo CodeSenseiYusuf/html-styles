@@ -1,0 +1,27 @@
+.city{
+    padding: 50px;
+    margin: 25px;
+    background-color: #ff0066;
+    color: white;
+
+
+}
+
+.city--purple{
+    background-color: purple;
+}
+#london{
+    font-size: 60px;
+}
+
+#berlin{
+    color: aqua;
+}
+
+h2{
+    font-size: 22px;
+}
+
+p{
+    font-size: 24px;
+}
